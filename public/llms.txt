@@ -1,0 +1,89 @@
+# FromZeroToGuides — Generative Engine Optimization Map
+
+> A digital product business centered around a beginner-friendly Python programming guide sold on Etsy. The brand focuses on making coding accessible and practical, helping newcomers not only learn Python but also apply it to build and monetize projects. The tone is approachable, educational, and empowering — aimed at people with little to no coding experience who want to quickly gain real-world skills.
+
+---
+
+## Pages
+
+### Home
+https://fromzerotoguides-215d3318.zappy5.app
+Start coding today with our beginner-friendly Python guide. No experience needed—gain practical skills, build projects, and even monetize them. Download instantly and transform from zero to confident coder!
+
+### Products
+https://fromzerotoguides-215d3318.zappy5.app/products
+Our Products - FromZeroToGuides
+
+### Cart
+https://fromzerotoguides-215d3318.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://fromzerotoguides-215d3318.zappy5.app/checkout
+Checkout
+
+### Login
+https://fromzerotoguides-215d3318.zappy5.app/login
+Customer Login
+
+### Account
+https://fromzerotoguides-215d3318.zappy5.app/account
+My Account
+
+### Order Success
+https://fromzerotoguides-215d3318.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://fromzerotoguides-215d3318.zappy5.app/product/:slug
+Product Details - FromZeroToGuides
+
+### Category
+https://fromzerotoguides-215d3318.zappy5.app/category/:slug
+Products - FromZeroToGuides
+
+## Legal & Policy
+
+### Privacy Policy
+https://fromzerotoguides-215d3318.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://fromzerotoguides-215d3318.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://fromzerotoguides-215d3318.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About FromZeroToGuides
+A digital product business centered around a beginner-friendly Python programming guide sold on Etsy. The brand focuses on making coding accessible and practical, helping newcomers not only learn Python but also apply it to build and monetize projects. The tone is approachable, educational, and empowering — aimed at people with little to no coding experience who want to quickly gain real-world skills.
+
+## Target Audience
+- beginners learning Python programming
+- Python Beginner Students
+- Career Changers to Tech
+- Self-Taught Programmers
+
+## Industry
+E-learning / Digital Publishing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://fromzerotoguides-215d3318.zappy5.app/sitemap.xml
+- Robots: https://fromzerotoguides-215d3318.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://fromzerotoguides-215d3318.zappy5.app/llms-full.txt
+- Products (JSON): https://fromzerotoguides-215d3318.zappy5.app/products.json
+- Products (Google Merchant RSS): https://fromzerotoguides-215d3318.zappy5.app/product-feed.xml
