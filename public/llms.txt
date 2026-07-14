@@ -7,53 +7,53 @@
 ## Pages
 
 ### Home
-https://fromzerotoguides-215d3318.zappy5.app
+https://example.com
 Start coding today with our beginner-friendly Python guide. No experience needed—gain practical skills, build projects, and even monetize them. Download instantly and transform from zero to confident coder!
 
 ### Products
-https://fromzerotoguides-215d3318.zappy5.app/products
+https://example.com/products
 Our Products - FromZeroToGuides
 
 ### Cart
-https://fromzerotoguides-215d3318.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://fromzerotoguides-215d3318.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://fromzerotoguides-215d3318.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://fromzerotoguides-215d3318.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://fromzerotoguides-215d3318.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://fromzerotoguides-215d3318.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - FromZeroToGuides
 
 ### Category
-https://fromzerotoguides-215d3318.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - FromZeroToGuides
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://fromzerotoguides-215d3318.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://fromzerotoguides-215d3318.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://fromzerotoguides-215d3318.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -82,8 +82,8 @@ E-learning / Digital Publishing
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://fromzerotoguides-215d3318.zappy5.app/sitemap.xml
-- Robots: https://fromzerotoguides-215d3318.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://fromzerotoguides-215d3318.zappy5.app/llms-full.txt
-- Products (JSON): https://fromzerotoguides-215d3318.zappy5.app/products.json
-- Products (Google Merchant RSS): https://fromzerotoguides-215d3318.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
